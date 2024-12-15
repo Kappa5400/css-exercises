@@ -1,0 +1,20 @@
+.hot{
+background-color: orange;
+font-size: 24px;
+}
+
+.cold{
+background-color: orange;
+font-size: 40px;
+font-weight: 700;
+}
+
+#top{
+font-size: 50px;
+}
+
+#bot{
+background-color: green;
+font-weight :700;
+font-size 28px;
+}
